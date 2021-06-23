@@ -1,2 +1,2 @@
 # Super-Knight
- A simple rpg game based on pygame, it is my python class's final project
+ A simple 2D rpg  based on pygame, it is my python class's final project
